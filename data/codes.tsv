@@ -1,0 +1,30 @@
+codes	en	ru
+type_днк	DNA	ДНК
+type_инг	Whole blood in RNA stabilizer	Цельная кровь в консерванте для для стабилизации РНК
+type_моча	Urine	Моча
+type_пл	Plasma	Плазма
+type_пл(фф)	Plasma (fetal fraction)	Плазма (фетальная фракция)
+type_плац	Placenta	Плацента
+type_пуп_инг	Cord blood in RNA stabilizer	Пуповинная кровь в консерванте для стабилизации РНК
+type_пуп_лей	Cord blood buffy coat	Лейкоцитарная пленка из пуповинной крови
+type_пуп_пл	Cord blood plasma	Плазма пуповинной крови
+type_пуп_сыв	Cord blood serum	Сыворотка пуповинной крови
+type_пуп	Cord blood	Пуповинная кровь
+type_цк	Whole blood	Цельная кровь
+type_лей	Buffy coat	Лейкоцитарная пленка
+type_сыв	Serum	Сыворотка крови
+type_пк	Dried blood spots	Пятна крови
+type_эяк	Semen	Эякулят
+type_рнк	RNA	РНК
+type_пркл	Fixed somatic and germ cells	Зафиксированные препараты соматических и половых клеток
+type_спл	Seminal plasma	Семенная плазма
+type_гд	Gonadal biopsy specimens	Биоптаты гонад
+type_лп	Leukocyte film	Лейкоцитарная плёнка
+collection_monogenic	Monogenic diseases	Моногенные заболевания
+collection_obs_gyn	Obstetric and gynecologic pathologies	Акушерские и гинекологические патологии
+collection_multi	Multifactorial diseases	Мультифакторные заболевания
+collection_pop	Population control	Популяционный контроль
+collection_spon	Spontaneous abortion	Спонтанное прерывание беременности
+collection_infert	Infertility	Бесплодие
+collection_repro_dis	Reproductive system disease	Нарушение репродуктивной системы
+collection_sex_vio	Disorders of sex development	Нарушение формирования пола
