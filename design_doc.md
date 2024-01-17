@@ -24,6 +24,7 @@
     - [Документ с критериями оценивания проектного семинара](https://adhesive-burst-49c.notion.site/94924045b7844805a43827833ec3cfa7)
     - [Текущая внешняя система без МЛ-системы](http://51.250.91.100:3000/)
     - [Первая презентация с идеей проекта](https://docs.google.com/presentation/d/1gku94mMuG7_RfxKHqnXF5-1ZWGj5Nyu7GWxABMgm2xg/edit?usp=sharing) от 20.11.2023. 
+    - [Финальная презентация](https://docs.google.com/presentation/d/15YLvfGuZfNPOXEYehMRwsvKe2kWuvTcKA49bGwATIxQ/edit?usp=sharing) от 20.01.2024. 
     - [Документ с описанием доступных данных](https://docs.google.com/document/d/1EuJOx2iu7zVLVzkMqsKDPozVCgrZC16H6VQHH6hOCOs/edit?usp=sharing)
     - [Финальная презентация]() (будет загружена позже). 
     - [Гитхаб репозиторий с проектом и ридми](https://github.com/TohaRhymes/med_nlp).
@@ -62,6 +63,7 @@
 
 - *Что делаем с технической точки зрения*: 
     - Ранжирование: для каждого названия коллекции образца проранжировать все имеющиеся признаки и исследования и выбрать N наиболее релевантных.  
+    - Написать модуль для веб-сервиса, который по запросы выводил бы релевантные исследования
 
 #### 2.2. Блок-схема решения  
 
